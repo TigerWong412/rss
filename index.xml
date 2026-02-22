@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>论文总结订阅</title>
-    <link>https://tigerwong412.github.io/rss/</link>
-    <description>自动生成的论文总结RSS</description>
-    <language>zh-CN</language>
-    <ttl>60</ttl>
-    <lastBuildDate>Sat, 22 Feb 2025 03:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tigerwong412.github.io/rss/index.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>欢迎使用论文总结系统</title>
-      <link>https://tigerwong412.github.io/rss/</link>
-      <description>将PDF文件放入监听文件夹，系统会自动提取内容、调用AI总结并发布到本RSS。敬请期待第一篇论文总结！</description>
-      <pubDate>Sat, 22 Feb 2025 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">welcome-2025-02-22</guid>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>论文总结订阅</title><link>https://tigerwong412.github.io/rss/</link><description>自动生成的论文总结RSS</description><language>zh-CN</language><lastBuildDate>Sun, 22 Feb 2026 11:17:51 -0000</lastBuildDate><ttl
