@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>论文总结订阅</title><link>https://tigerwong412.github.io/rss/</link><description>自动生成的论文总结RSS</description><language>zh-CN</language><lastBuildDate>Sun, 22 Feb 2026 11:17:51 -0000</lastBuildDate><ttl
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文总结订阅</title>
+    <link>https://tigerwong412.github.io/rss/</link>
+    <description>自动生成的论文总结RSS</description>
+    <language>zh-CN</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Sun, 22 Feb 2026 11:25:03 +0800</lastBuildDate>
+    <atom:link href="https://tigerwong412.github.io/rss/index.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nonreciprocal_field_theory_for_decision-making_in_multi-agent_control_systems</title>
+      <link>https://tigerwong412.github.io/rss/posts/Nonreciprocal_field_theory_for_decision-making_in_multi-agent_control_systems.html</link>
+      <description>Nonreciprocal field theory for decision-making in multi-agent control systems 以下是对论文《Nonreciprocal field theory for decision-making in multi-agent control systems》（Nature Communications 2025, 16:8450）的忠实、结构化总结，严格依据原文内容，逐项回应四项要求： 1. 研究背景与目的 背景： 传统场论（如相变理论、活性物质模型）通常基于简单、互易（reciprocal）的成对相互作用（如牛顿第三定律约束下的对称力），成功描述了流体、磁性系统及部分主动物质中的集体行为。然而，大量自然与人工系统（如动物群集、自动驾驶车队、机器人集群、经济决策网络）的核心动力学源于微观个体的分布式决策过程——这些过程具有两个根本特征： - 非互易性（nonreciprocity）：作用与反作用不对称（如牧羊犬驱赶羊，但羊不反向影响犬的决策逻辑）； - 多体性（many-body character）：决策依赖于目标位...</description>
+      <pubDate>Sun, 22 Feb 2026 11:17:51 +0800</pubDate>
+      <guid isPermaLink="false">Nonreciprocal_field_theory_for_decision-making_in_multi-agent_control_systems</guid>
+    </item>
+  </channel>
+</rss>
